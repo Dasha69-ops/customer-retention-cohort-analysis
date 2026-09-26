@@ -1,0 +1,3 @@
+customer_type,customer_count_per_bucket,total_revenue_per_bucket,percentage_of_total_customer_spend_per_bucket
+First_time,1493,616311.73,6.9
+Returning,2845,8295096.17,93.1
